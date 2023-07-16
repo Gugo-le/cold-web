@@ -15,7 +15,7 @@ const App = () => {
                     <Options />
                 </Route>
                 <Route>
-             
+                <Route path="/result/:countryName" component={Countries} />
                 </Route>
             </Switch>
         </BrowserRouter>
