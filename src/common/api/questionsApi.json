@@ -1,169 +1,169 @@
 [{
         "id": 1,
         "option": "EI",
-        "question": "공부하려고 의자에 앉은 나. 폰을 들며 친구에게",
+        "question": "목이 아프거나 인후통이 있나요?",
         "answers": [{
                 "type": "E",
-                "content": "야 나 공부함 톡 ㄴㄴ"
+                "content": "예"
             },
             {
                 "type": "I",
-                "content": "그냥 펜을 잡고 공부한다."
+                "content": "아니요"
             }
         ]
     },
     {
         "id": 2,
         "option": "EI",
-        "question": "아~ 오늘은 공부해야겠다.",
+        "question": "콧물이 나거나 코가 먹혀있나요",
         "answers": [{
                 "type": "E",
 
-                "content": "누구랑 공부할까? 줌 ㄱㄱ?"
+                "content": "예"
             },
             {
                 "type": "I",
-                "content": "스터디 카페에서 조용히 해야겠다."
+                "content": "아니요"
             }
         ]
     },
     {
         "id": 3,
         "option": "EI",
-        "question": "공부하다가 폰에 알림이 떴다!",
+        "question": "기침이 있나요? 만성 기침이라면 기침이 얼마나 지속되었나요?",
         "answers": [{
                 "type": "E",
-                "content": "하.. 내가 톡 하지 말랬지?!😡"
+                "content": "한 달 이상"
             },
             {
                 "type": "I",
-                "content": "알림이 왔나? 확인해볼까?...어라 안 왔네.."
+                "content": "일주일 정도"
             }
         ]
     },
     {
         "id": 4,
         "option": "SN",
-        "question": "복습을 하기 위해서 노트를 폈다.",
+        "question": "몸이 피로하거나 힘이 빠진 느낌이 있나요?",
         "answers": [{
                 "type": "S",
-                "content": "크~ 역시 깔끔하다. 아주 좋아"
+                "content": "예"
             },
             {
                 "type": "N",
-                "content": "어우 이게 뭐야..뭐가 뭔지 모르겠어"
+                "content": "아니요"
             }
         ]
     },
     {
         "id": 5,
         "which": "SN",
-        "question": "공부를 하기 위해서 교과서를 폈다.",
+        "question": "발열이 있나요? 체온이 얼마나 높은가요?",
         "answers": [{
                 "type": "S",
-                "content": "교과서 내용이 어떤지 봐야겠다."
+                "content": "37.5도 정도"
             },
             {
                 "type": "N",
-                "content": "목차부터 찬찬히 살펴볼까?"
+                "content": "38도 이상"
             }
         ]
     },
     {
         "id": 6,
         "which": "SN",
-        "question": "시험이 다가오는데 공부가 손에 안 잡힌다면, 무슨 생각을 하는가?",
+        "question": "오한이나 몸이 춥게 느꺼지는 증상이 있나요?",
         "answers": [{
                 "type": "S",
-                "content": "유튜브에서 단기간에 점수 높아지는 법을 찾아봐야겠다."
+                "content": "예"
             },
             {
                 "type": "N",
-                "content": "공부? 시험? 왜 봐야함? 시험 없는 세상은 어떨까?"
+                "content": "아니요"
             }
         ]
     },
     {
         "id": 7,
         "option": "TF",
-        "question": "필기할 때 당신의 방법은?",
+        "question": "근육이나 관절이 아프거나 통증이 있나요?",
         "answers": [{
                 "type": "T",
-                "content": "상남자/여자 답게 흑백 필기 보여드림"
+                "content": "예"
             },
             {
                 "type": "F",
-                "content": "알록달록해야 보기 좋지~!"
+                "content": "아니요"
             }
         ]
     },
     {
         "id": 8,
         "option": "TF",
-        "question": "공부를 하는데 질문이 생겼다. 이 때의 나는?",
+        "question": "두통이 있나요? 어느 부위가 아픈가요",
         "answers": [{
                 "type": "T",
-                "content": "뭐지..교과서부터 다시 읽어봐야겠다."
+                "content": "관자놀이 쪽"
             },
             {
                 "type": "F",
-                "content": "쌤한테 물어보거나 해설지 봐야지"
+                "content": "뒷목 쪽"
             }
         ]
     },
     {
         "id": 9,
         "option": "TF",
-        "question": "문학 작품을 읽는데 이해가 안돼서 해설지를 봤다. 이 때의 나는?",
+        "question": "식욕이 감소되었나요?",
         "answers": [{
                 "type": "T",
-                "content": "흠...공감할 수 없는 군."
+                "content": "예"
             },
             {
                 "type": "F",
-                "content": "허어...이런 내용이었어. 너무 슬프다~"
+                "content": "아니요"
             }
         ]
     },
     {
         "id": 10,
         "option": "JP",
-        "question": "공부를 하기 전에 나는?",
+        "question": "오심, 구토, 복통 등의 위장 문제가 있나요?",
         "answers": [{
                 "type": "J",
-                "content": "1분 1초도 허투루 쓰지 않고 스케줄을 완벽하게 세워야 해"
+                "content": "예"
             },
             {
                 "type": "P",
-                "content": "꼴리는 대로 원하는 과목부터~!"
+                "content": "아니요"
             }
         ]
     },
     {
         "id": 11,
         "option": "JP",
-        "question": "공부하다가 갑자기 다른 일이 생겼다. 나는?",
+        "question": "입이나 목이 건조하거나 아픈 느낌이 있나요?",
         "answers": [{
                 "type": "J",
-                "content": "하..오늘 밤 새서라도 오늘 할거는 다 해야겠다."
+                "content": "예"
             },
             {
                 "type": "P",
-                "content": "음..내일에 내가 하겠지~"
+                "content": "아니요"
             }
         ]
     },
     {
         "id": 12,
         "option": "JP",
-        "question": "시험 하루 전. 나는?",
+        "question": "눈이 따가운 느낌이 들거나 결막염 증상이 있나요?",
         "answers": [{
                 "type": "J",
-                "content": "공부했던 것들을 차근차근 복습하며 나의 상태를 점검한다."
+                "content": "예"
             },
             {
                 "type": "P",
-                "content": "벼락치기 on 아직 신에게는 12시간에 공부 시간이 남아있사옵니다."
+                "content": "아니요"
             }
         ]
     }
